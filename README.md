@@ -1,7 +1,5 @@
 # Windows Event Logs: A Comprehensive Guide for Active Directory Penetration Testing
 
-This guide covers essential aspects of utilizing Windows Event Logs for Active Directory Penetration Testing. It includes best practices, step-by-step instructions, and practical exercises to help you identify malicious activities in Windows environments.
-
 ---
 
 ## Table of Contents
@@ -16,7 +14,7 @@ This guide covers essential aspects of utilizing Windows Event Logs for Active D
 9. [Utilizing Sysmon and ETW for Enhanced Detection](#utilizing-sysmon-and-etw-for-enhanced-detection)
 10. [Practical Exercise: Identifying Indicators of Compromise](#practical-exercise-identifying-indicators-of-compromise)
 11. [Best Practices for Event Log Monitoring](#best-practices-for-event-log-monitoring)
-12. [Additional Resources](#additional-resources)
+12. [Resources](#additional-resources)
 
 ---
 
@@ -190,16 +188,10 @@ ETW allows for high-performance logging of events in Windows. It enables develop
 
 ---
 
-## Additional Resources
+## Resources
 
 - [Windows Event Log Reference](https://learn.microsoft.com/en-us/windows/win32/wes/windows-event-log-reference)
 - [Securing Active Directory: Best Practices](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/best-practices-for-securing-active-directory)
 - [MITRE ATT&CK Framework: Active Directory Techniques](https://attack.mitre.org/)
 - [Sysmon Documentation](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)
 - [Understanding Event Tracing for Windows (ETW)](https://learn.microsoft.com/en-us/windows/win32/etw/about-event-tracing)
-
----
-
-### Contributions
-
-Feel free to contribute, report issues, or submit feature requests via GitHub. Your feedback helps improve this guide and serves the broader cybersecurity community.
