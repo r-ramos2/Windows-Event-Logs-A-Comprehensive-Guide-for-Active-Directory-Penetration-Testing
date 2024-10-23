@@ -14,7 +14,7 @@
 9. [Utilizing Sysmon and ETW for Enhanced Detection](#utilizing-sysmon-and-etw-for-enhanced-detection)
 10. [Practical Exercise: Identifying Indicators of Compromise](#practical-exercise-identifying-indicators-of-compromise)
 11. [Best Practices for Event Log Monitoring](#best-practices-for-event-log-monitoring)
-12. [Resources](#additional-resources)
+12. [Resources](#resources)
 
 ---
 
